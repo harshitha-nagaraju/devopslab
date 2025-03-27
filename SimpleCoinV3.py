@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 __author__='''
-        Suraj Singh bisht
-        surajsinghbisht054@gmail.com
+        Harshitha
+        harshithaan2004@gmail.com
         www.bitforestinfo.com
-        github.com/surajsinghbisht054
+        https://github.com/harshitha-nagaraju
 
 
 '''
